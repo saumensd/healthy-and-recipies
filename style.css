@@ -64,11 +64,7 @@ p{
 .indian{
     text-align: center;
 }
-footer{
-    text-align: center;
-    background-color: black;
-    color: white;
-}
+
 .folowers{
     text-align: center;
     display: flex;
@@ -80,4 +76,9 @@ footer{
 }
 footer h1{
     color: yellow;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
 }
